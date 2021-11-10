@@ -1,0 +1,4 @@
+cmd.bat
+*.exe
+*.obj
+*.res
